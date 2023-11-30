@@ -7,7 +7,7 @@ Dentro del desarrollo del proyecto, incluíremos notas impotantes para tí que m
 
 ## ÍNDICE
 
-1. [Intro](url)
+1. [Intro](zurl)
 2. Demo
 3. Lo que constrirémos
 4. Objetivos de aprendizaje
@@ -31,4 +31,4 @@ Dentro del desarrollo del proyecto, incluíremos notas impotantes para tí que m
 
 ## Requisitos para desarrollar el proyecto
 
-Hecho por Vanessa Reyes en TecnolochicasPRO.
+Hecho por Vanessa  Reyes en TecnolochicasPRO.

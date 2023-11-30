@@ -31,4 +31,4 @@ Dentro del desarrollo del proyecto, incluíremos notas impotantes para tí que m
 
 ## Requisitos para desarrollar el proyecto
 
-Hecho por Malinali Becerril en TecnolochicasPRO.
+Hecho por Vanessa Reyes en TecnolochicasPRO.
